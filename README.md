@@ -179,7 +179,7 @@ Once the images are saved using these exact names, GitHub will display them here
 
 ### B5
 
-![B5 functions in SELECT output](screenshots/B5_select_output.png)
+![B5 functions in SELECT output](screenshots/B5_output.png)
 
 ### C1
 
